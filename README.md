@@ -14,7 +14,7 @@ Unitl now there is only one way to use the program:
 To run it write in linux termina the following command:
 
  python Scy_browse.py
- 
+
 <b> Python source files </b>
 
 To run the program using the source files you will need to have the following installed:
@@ -28,6 +28,11 @@ the databaseplante.py to suit the next versions of python.
 
 Soon I intend to make an executable for windows so stay tuned.
 
+## Search function
+
+Until now I have integrated only a few plants in the database.
+You can search for plant like strawberry,corn or dog rose
+ 
 <b> Bugs and Errors </b>
 
 If you enconter any bugs or unexpected functionality please either e-mail me at 
