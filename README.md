@@ -1,16 +1,20 @@
 # ScyPlant
-<b> The Program </b>
+## The Program 
 
 ScyPlant is a database program which amis to store important info about plants and their pictures. This start up version is the very first step on my idea to store info's about plant. I intend to continue the next vresion by adding a image processing algorithm that will scan the picture the user provides it and the program 
 will return useful info about the plant in the picture. 
 
-<b> Installing and runing the program </b>
+## Installing and running the program 
 
 Unitl now there is only one way to use the program:
 
 - Executing the Python source file
 
 
+To run it write in linux termina the following command:
+
+ python Scy_browse.py
+ 
 <b> Python source files </b>
 
 To run the program using the source files you will need to have the following installed:
